@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Ho va ten: Dao Manh Cuong\nDia chi: Xuan Van, TP Tuyen Quang, ZIP 12345\nSo dien thoai: 0911056591\nChuyen nganh: CNTT";
+    cout << "Ho va ten: Ngo Hai Dang\nDia chi: Tan Son Kim Bang Ha Nam, ZIP 12345\nSo dien thoai: 0976741319\nChuyen nganh: CNTT";
 
     return 0;
 }
